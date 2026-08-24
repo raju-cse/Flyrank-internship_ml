@@ -1,4 +1,2 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
-
 
 https://github.com/raju-cse/Flyrank-internship_ml/blob/main/docs/FlyRank_Capstone_Paper.pdf
